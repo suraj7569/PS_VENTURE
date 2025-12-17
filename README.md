@@ -49,7 +49,7 @@ The following screenshots confirm that the multi-agent system is correctly integ
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/financial-multiagent.git](https://github.com/YOUR_USERNAME/financial-multiagent.git)
+git clone [https://github.com/suraj7569/PS_Venture.git](https://github.com/suraj7569/PS_Venture.git)
 cd financial-multiagent
 ```
 ---
@@ -88,6 +88,10 @@ This project was developed on Google Colab, use the provided pyngrok setup to tu
 1. Phidata for the agent framework.
   2. Groq for the lightning-fast LPUs.
   3. Streamlit for the intuitive UI components.
-
+---
+## 📬 Contact
+Created with ❤️ by [Suraj](https://github.com/suraj7569)  
+📧 Email: surajkumar121112@gmaul.com  
+🔗 GitHub: [github.com/suraj7569](https://github.com/suraj7569)
 
 
